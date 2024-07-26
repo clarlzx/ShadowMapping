@@ -686,7 +686,7 @@ static void glfw_error_callback(int error, const char* description)
 
 static void WaitForEnterKeyBeforeExit(void)
 {
-    printf("\nEnter to exit");
+    printf("\nPress enter to exit");
     fflush(stdin);
     getchar();
 }
