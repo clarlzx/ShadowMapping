@@ -1,4 +1,3 @@
-## About
 Do note that this was a school assignment and part of the code was provided as a template by the course.
 
 ## Installation
